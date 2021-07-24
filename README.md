@@ -9,6 +9,7 @@
 ## :school: Education and Certifications
 - MSc Cyber and Information Security 2019
 - B.S. Computer Science 2012
+
 <img src="https://img.shields.io/badge/GPEN-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GWAPT-RED-red?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GREM-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GNFA-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCFA-BLUE-blue?style=plastic&logo=appveyor" height="20px"> <img src="https://img.shields.io/badge/GCIH-BLUE-blue?style=plastic&logo=appveyor" height="20px">
 </p>
 

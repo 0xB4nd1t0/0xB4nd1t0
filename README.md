@@ -1,6 +1,7 @@
 ## 👋 Intro:
-- 🔭 I’m a Senior Cybersecurity Analyst working a Security Operations Center
-- 🌱 I’m currently learning about Offensive Security and Malware analysis
+- 🔭 I’m a Senior Cybersecurity Analyst for Security Operations Center
+- :star: Currently specialize in Digital Forensics
+- 🌱 I’m currently learning about Offensive Security, Cloud Security, and Malware Analysis
 - 💬 Ask me about Malware and APTs
 
 ## 📫 How to reach me:
@@ -14,7 +15,8 @@
 </p>
 
 ## 🤖 Projects:
-- None at this time
+- Supported the [![Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations)](https://github.com/curated-intel/Ukraine-Cyber-Operations)
+- Forensics Team for [![Project Obsidian for DEFCON 30](https://github.com/blueteamvillage/Project-Obsidian-DC30)](https://github.com/blueteamvillage/Project-Obsidian-DC30)
 
 ## 🌎 Other:
 [![HackerOne](https://img.shields.io/badge/HackerOne-white)](https://tryhackme.com/p/B4nd1t0)

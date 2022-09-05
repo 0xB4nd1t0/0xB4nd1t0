@@ -15,8 +15,8 @@
 </p>
 
 ## 🤖 Projects:
-- Supported the [![Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations)](https://github.com/curated-intel/Ukraine-Cyber-Operations)
-- Forensics Team for [![Project Obsidian for DEFCON 30](https://github.com/blueteamvillage/Project-Obsidian-DC30)](https://github.com/blueteamvillage/Project-Obsidian-DC30)
+- Supported Curated Intelligence's [![Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations)](https://github.com/curated-intel/Ukraine-Cyber-Operations)
+- Forensics Team for Blue Team Village's [![Project Obsidian for DEFCON 30](https://github.com/blueteamvillage/Project-Obsidian-DC30)](https://github.com/blueteamvillage/Project-Obsidian-DC30)
 
 ## 🌎 Other:
 [![HackerOne](https://img.shields.io/badge/HackerOne-white)](https://tryhackme.com/p/B4nd1t0)
